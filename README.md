@@ -31,9 +31,6 @@ Contributions are welcome! Whether it's adding new AI models, enhancing data pro
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md), allowing for wide usage and modification.
 
 ## Getting Started
 
