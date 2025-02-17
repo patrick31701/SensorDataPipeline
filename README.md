@@ -42,3 +42,17 @@ To get started with this project:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/patrick31701/SensorDataPipeline.git
+   ### Install Dependencies
+
+You'll need Python with the following libraries:
+
+- `pandas`
+- `numpy`
+- `kafka-python`
+- `scikit-learn`
+- `sqlite3`
+
+You can install them using pip:
+
+```bash
+pip install pandas numpy kafka-python scikit-learn
